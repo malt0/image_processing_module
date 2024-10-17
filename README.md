@@ -1,6 +1,3 @@
-# image_processing_module
-
-
 # Image Processing with FastAPI, Celery, and Redis
 
 This project demonstrates an image processing pipeline using **FastAPI** as the backend API, **Celery** for asynchronous task processing, and **Redis** as the message broker. It allows users to upload images, process them asynchronously (grayscale or resize), and retrieve the results.
