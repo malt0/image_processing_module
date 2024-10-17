@@ -19,7 +19,6 @@ image_processing_demo/
 │   ├── celery_worker.py # Celery worker starter
 │   ├── celeryconfig.py  # Celery configuration
 │
-├── Dockerfile (Optional)
 ├── requirements.txt    # Python dependencies
 └── README.md           # Documentation (this file)
 ```
@@ -39,8 +38,8 @@ You can install dependencies from the `requirements.txt` file.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/image-processing-demo.git
-   cd image-processing-demo
+   git clone https://github.com/malt0/image_processing_module.git
+   cd image-processing_module
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
